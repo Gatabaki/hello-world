@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for mathare institution nairobi kenya</h1>
+    <h1>New user Register for mathare institution nairobi kenya where we take care of you</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -20,7 +20,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning mundati this is your year </h1>
+   <h1> Thankyou, Happy Learning mundati this is your year don't quit </h1>
 
   
 </form>
