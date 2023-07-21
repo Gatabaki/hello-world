@@ -20,7 +20,7 @@
     <p>Already have an account yes or no? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning mundati this is your year don't quit </h1>
+   <h1> Thankyou, Happy Learning mundati this is your year don't quit put more effort please </h1>
 
   
 </form>
